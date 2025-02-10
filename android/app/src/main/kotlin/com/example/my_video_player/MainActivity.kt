@@ -1,4 +1,4 @@
-package com.example.my_video_player
+package com.example.tfplayer
 
 import io.flutter.embedding.android.FlutterActivity
 
